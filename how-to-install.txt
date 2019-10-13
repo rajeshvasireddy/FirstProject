@@ -1,1 +1,2 @@
-1. open tool
+1. open tool 
+2. configue with new tool
